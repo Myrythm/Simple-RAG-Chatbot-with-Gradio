@@ -76,3 +76,7 @@ This project is a simple Retrieval-Augmented Generation (RAG) application that u
 - `.env.example`: An example of the `.env` file.
 - `data/`: A directory to store the PDF documents to be ingested.
 - `chroma_db/`: A directory where the ChromaDB vector store is saved.
+
+## Result
+<img width="1894" height="946" alt="image" src="https://github.com/user-attachments/assets/2bf9e106-ed6a-4de1-b29c-05b32178c7d1" />
+  
